@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author VivoBook
+ *
+ */
+module Logics {
+}
